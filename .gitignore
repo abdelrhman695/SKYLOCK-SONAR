@@ -1,0 +1,22 @@
+﻿# Audio datasets
+data/
+
+# Temporary audio and runtime files
+temp_audio/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Keep trained model and training plots
+!outputs/
+!outputs/models/
+!outputs/models/best_model.pth
+!outputs/plots/
+!outputs/plots/training_history.png
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
