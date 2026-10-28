@@ -1,6 +1,6 @@
-# SUDARSHANchakra - Acoustic UAV Threat Detection System
+# 🔊 SKYLOCK-SONAR — Acoustic UAV Threat Detection System
 
-> Named after the divine discus weapon of Lord Vishnu, this system serves as a protective guardian against aerial threats.
+> The acoustic detection layer of the **SkyLock** drone-defense project — it listens for the sound of propellers where cameras can't see.
 
 A production-grade deep learning system for detecting drone/UAV acoustic signatures using Mel-Spectrogram analysis and Convolutional Neural Networks.
 
@@ -22,7 +22,7 @@ Develop an acoustic surveillance system for ground-based defense units that can:
 ## Project Structure
 
 ```
-SudarshanChakra/
+SKYLOCK-SONAR/
 ├── configs/
 │   └── config.py           # Central configuration parameters
 ├── src/
@@ -232,4 +232,4 @@ This project is for authorized defense research and educational purposes.
 
 ---
 
-**SUDARSHANchakra** - Protecting the skies through acoustic intelligence.
+**SKYLOCK-SONAR** — Protecting the skies through acoustic intelligence.
